@@ -1,0 +1,16 @@
+{
+  "name": "htetkyawswarlin/workopia",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Htet Kyaw Swar Lin",
+      "email": "khtet5427@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
