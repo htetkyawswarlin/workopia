@@ -1,7 +1,5 @@
 <?php
 
-use App\Controllers\HomeController;
-use App\Controllers\ListingsController;
 
 $router->get('/', 'HomeController@index');
 $router->get('/listings', 'ListingsController@index');
